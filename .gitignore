@@ -1,0 +1,29 @@
+# Python-related
+flask-backend/venv/
+flask-backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / React Native
+frontend/node_modules/
+frontend/android/
+frontend/ios/
+
+# Logs & OS files
+*.log
+.DS_Store
+
+# Test output
+frontend/__tests__/
+
+# VS Code / JetBrains IDEs
+.vscode/
+.idea/
+
+# Build & cache
+frontend/*.tsbuildinfo
+frontend/babel.config.js
+frontend/metro.config.js
+frontend/jest.config.js
+
